@@ -14,7 +14,7 @@ http://202.39.28.229:8116/0.ts
 #EXTVLCOPT:network-caching=1000
 http://202.39.28.229:8120/0.ts
 #EXTINF:0,三立台灣
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=2000
 http://202.39.28.229:8119/0.ts
 #EXTINF:0,民視新聞
 #EXTVLCOPT:network-caching=1000
