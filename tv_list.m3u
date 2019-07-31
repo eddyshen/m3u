@@ -10,9 +10,15 @@ http://202.39.28.229:8115/0.ts
 #EXTINF:0,東森綜合
 #EXTVLCOPT:network-caching=1000
 http://202.39.28.229:8116/0.ts
+#EXTINF:0,中天娛樂
+#EXTVLCOPT:network-caching=1000
+http://202.39.28.229:8124/0.ts
 #EXTINF:0,中天綜合
 #EXTVLCOPT:network-caching=1000
 http://202.39.28.229:8120/0.ts
+#EXTINF:0,三立都會
+#EXTVLCOPT:network-caching=1000
+http://202.39.28.229:8118/0.ts
 #EXTINF:0,三立台灣
 #EXTVLCOPT:network-caching=1000
 http://202.39.28.229:8119/0.ts
@@ -58,6 +64,9 @@ http://202.39.28.229:8132/0.ts
 #EXTINF:0,CINEMAX
 #EXTVLCOPT:network-caching=1000
 http://202.39.28.229:8133/0.ts
+#EXTINF:0,科學探索
+#EXTVLCOPT:network-caching=1000
+http://202.39.28.229:8128/0.ts
 #EXTINF:0,國家地理
 #EXTVLCOPT:network-caching=1000
 http://202.39.28.229:8129/0.ts
