@@ -91,3 +91,9 @@ http://202.39.28.229:8104/0.ts
 #EXTINF:0,BBC
 #EXTVLCOPT:network-caching=1000
 http://202.39.28.229:8101/0.ts
+#EXTINF:0,CBS News
+#EXTVLCOPT:network-caching=1000
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:0,CNN
+#EXTVLCOPT:network-caching=1000
+http://ott-cdn.ucom.am/s27/index.m3u8?fluxustv.m3u8
