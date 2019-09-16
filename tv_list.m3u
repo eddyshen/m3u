@@ -1,45 +1,27 @@
-#EXTINF:0,中視
-#EXTVLCOPT:network-caching=1000
-http://202.39.28.229:8113/0.ts
-#EXTINF:0,民視
-#EXTVLCOPT:network-caching=1000
-http://202.39.28.229:8114/0.ts
-#EXTINF:0,公視
-#EXTVLCOPT:network-caching=1000
-http://202.39.28.229:8115/0.ts
-#EXTINF:0,東森綜合
-#EXTVLCOPT:network-caching=1000
-http://202.39.28.229:8116/0.ts
-#EXTINF:0,中天娛樂
-#EXTVLCOPT:network-caching=1000
-http://202.39.28.229:8124/0.ts
 #EXTINF:0,中天綜合
 #EXTVLCOPT:network-caching=1000
-http://202.39.28.229:8120/0.ts
-#EXTINF:0,三立都會
+http://198.16.106.58:8278/ctizhonghe/playlist.m3u8?tid=m02000000000012497296&ct=18032&tsum=aefc5e143197130c81bd5857a5f89307
+#EXTINF:0,三立綜合
 #EXTVLCOPT:network-caching=1000
-http://202.39.28.229:8118/0.ts
-#EXTINF:0,三立台灣
+http://198.16.106.58:8278/sanlizhonghe/playlist.m3u8?tid=m02000000000017328101&ct=18032&tsum=a95904ef0276902aac85429552c61914
+#EXTINF:0,三立戲劇
 #EXTVLCOPT:network-caching=1000
-http://202.39.28.229:8119/0.ts
-#EXTINF:0,TVBS 歡樂
+http://198.16.106.58:8278/sanlixiju/playlist.m3u8?tid=m02000000000017970098&ct=18032&tsum=98b559735fdb238b44fc484b5ff5795f
+#EXTINF:0,東森洋片
 #EXTVLCOPT:network-caching=1000
-http://202.39.28.229:8125/0.ts
-#EXTINF:0,民視新聞
-#EXTVLCOPT:network-caching=1000
-http://202.39.28.229:8110/0.ts
-#EXTINF:0,台視新聞
-#EXTVLCOPT:network-caching=1000
-http://202.39.28.229:8111/0.ts
-#EXTINF:0,華視新聞
-#EXTVLCOPT:network-caching=1000
-http://202.39.28.229:8112/0.ts
-#EXTINF:0,TVBS 新聞
-#EXTVLCOPT:network-caching=1000
-http://202.39.28.229:8109/0.ts
+http://198.16.106.58:8278/ettvwestern/playlist.m3u8?tid=m02000000000013926527&ct=18032&tsum=7fa0f9b36f3c2f6f2913a720ad795285
 #EXTINF:0,壹新聞
 #EXTVLCOPT:network-caching=1000
 http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/playlist.m3u8
+#EXTINF:0,TVB jade
+#EXTVLCOPT:network-caching=1000
+http://198.16.106.58:8278/jade_twn/playlist.m3u8?tid=m02000000000012940501&ct=17993&tsum=9e0296de800da2a23acf6b63b8f89833
+#EXTINF:0,TVB J2
+#EXTVLCOPT:network-caching=1000
+http://198.16.106.58:8278/j2_twn/playlist.m3u8?tid=m02000000000014784480&ct=17993&tsum=d2195b95e329bcd0d63bcabb67d3ca2f
+#EXTINF:0,TVB J5
+#EXTVLCOPT:network-caching=1000
+http://198.16.106.58:8278/j5_twn/playlist.m3u8?tid=m02000000000010509679&ct=17993&tsum=2d634e7c4520de49da5465f534ec7739
 #EXTINF:0,CCTV-1
 #EXTVLCOPT:network-caching=1000
 http://111.40.205.87/PLTV/88888888/224/3221225710/index.m3u8
@@ -61,39 +43,5 @@ http://111.40.205.87/PLTV/88888888/224/3221225701/index.m3u8
 #EXTINF:0,安徽衛視
 #EXTVLCOPT:network-caching=1000
 http://111.40.205.87/PLTV/88888888/224/3221225727/index.m3u8
-#EXTINF:0,TLC
-#EXTVLCOPT:network-caching=1000
-http://202.39.28.229:8130/0.ts
-#EXTINF:0,衛視洋片
-#EXTVLCOPT:network-caching=1000
-http://202.39.28.229:8132/0.ts
-#EXTINF:0,CINEMAX
-#EXTVLCOPT:network-caching=1000
-http://202.39.28.229:8133/0.ts
-#EXTINF:0,科學探索
-#EXTVLCOPT:network-caching=1000
-http://202.39.28.229:8128/0.ts
-#EXTINF:0,國家地理
-#EXTVLCOPT:network-caching=1000
-http://202.39.28.229:8129/0.ts
-#EXTINF:0,FOX 體育台
-#EXTVLCOPT:network-caching=1000
-http://202.39.28.229:8134/0.ts
-#EXTINF:0,FOX 2 體育台
-#EXTVLCOPT:network-caching=1000
-http://202.39.28.229:8135/0.ts
-#EXTINF:0,愛爾達體育台
-#EXTVLCOPT:network-caching=1000
-http://202.39.28.229:8136/0.ts
-#EXTINF:0,NHK
-#EXTVLCOPT:network-caching=1000
-http://202.39.28.229:8104/0.ts
-#EXTINF:0,BBC
-#EXTVLCOPT:network-caching=1000
-http://202.39.28.229:8101/0.ts
-#EXTINF:0,CBS News
-#EXTVLCOPT:network-caching=1000
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-#EXTINF:0,CNN
-#EXTVLCOPT:network-caching=1000
-http://ott-cdn.ucom.am/s27/index.m3u8?fluxustv.m3u8
+
+
