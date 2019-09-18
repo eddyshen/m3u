@@ -16,17 +16,12 @@ http://198.16.106.58:8278/eltazhonghe_twn/playlist.m3u8?tid=m0200000000001400481
 #EXTINF:0,Elta 戲劇
 #EXTVLCOPT:network-caching=1000
 http://198.16.106.58:8278/eltadrama_twn/playlist.m3u8?tid=m02000000000017968370&ct=18032&tsum=0918e7edb4e700da112c60d22e0aa4d5
-#EXTINF:0,Elta 戲劇
-#EXTVLCOPT:network-caching=1000
 #EXTINF:0,Gtv 第1台
 #EXTVLCOPT:network-caching=1000
 http://198.16.106.58:8278/badafirst/playlist.m3u8?tid=m02000000000010410120&ct=18032&tsum=055aef0bb13ac1e927f118680b4ec78d
 #EXTINF:0,Gtv 八大戲劇台
 #EXTVLCOPT:network-caching=1000
 http://198.16.106.58:8278/badadrama/playlist.m3u8?tid=m02000000000010527727&ct=18032&tsum=c58a9aa7bad904b79fe7cccb04d7e158
-#EXTINF:0,壹新聞
-#EXTVLCOPT:network-caching=1000
-http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/playlist.m3u8
 #EXTINF:0,TVB jade
 #EXTVLCOPT:network-caching=1000
 http://198.16.106.58:8278/jade_twn/playlist.m3u8?tid=m02000000000012940501&ct=17993&tsum=9e0296de800da2a23acf6b63b8f89833
