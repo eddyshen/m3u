@@ -10,6 +10,20 @@ http://198.16.106.58:8278/sanlixiju/playlist.m3u8?tid=m02000000000017970098&ct=1
 #EXTINF:0,東森洋片
 #EXTVLCOPT:network-caching=1000
 http://198.16.106.58:8278/ettvwestern/playlist.m3u8?tid=m02000000000013926527&ct=18032&tsum=7fa0f9b36f3c2f6f2913a720ad795285
+#EXTINF:0,Elta 綜合
+#EXTVLCOPT:network-caching=1000
+http://198.16.106.58:8278/eltazhonghe_twn/playlist.m3u8?tid=m02000000000014004815&ct=18032&tsum=a4d65e8000a7d0bbc343700b1efccb62
+#EXTINF:0,Elta 戲劇
+#EXTVLCOPT:network-caching=1000
+http://198.16.106.58:8278/eltadrama_twn/playlist.m3u8?tid=m02000000000017968370&ct=18032&tsum=0918e7edb4e700da112c60d22e0aa4d5
+#EXTINF:0,Elta 戲劇
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Gtv 第1台
+#EXTVLCOPT:network-caching=1000
+http://198.16.106.58:8278/badafirst/playlist.m3u8?tid=m02000000000010410120&ct=18032&tsum=055aef0bb13ac1e927f118680b4ec78d
+#EXTINF:0,Gtv 八大戲劇台
+#EXTVLCOPT:network-caching=1000
+http://198.16.106.58:8278/badadrama/playlist.m3u8?tid=m02000000000010527727&ct=18032&tsum=c58a9aa7bad904b79fe7cccb04d7e158
 #EXTINF:0,壹新聞
 #EXTVLCOPT:network-caching=1000
 http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/playlist.m3u8
@@ -43,5 +57,3 @@ http://111.40.205.87/PLTV/88888888/224/3221225701/index.m3u8
 #EXTINF:0,安徽衛視
 #EXTVLCOPT:network-caching=1000
 http://111.40.205.87/PLTV/88888888/224/3221225727/index.m3u8
-
-
