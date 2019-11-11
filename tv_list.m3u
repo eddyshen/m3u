@@ -1,9 +1,6 @@
 #EXTINF:0,中天綜合
 #EXTVLCOPT:network-caching=1000
 http://198.16.106.58:8278/ctizhonghe/playlist.m3u8?tid=m02000000000012497296&ct=18032&tsum=aefc5e143197130c81bd5857a5f89307
-#EXTINF:0,三立綜合
-#EXTVLCOPT:network-caching=1000
-http://198.16.106.58:8278/sanlizhonghe/playlist.m3u8?tid=m02000000000017328101&ct=18032&tsum=a95904ef0276902aac85429552c61914
 #EXTINF:0,三立戲劇
 #EXTVLCOPT:network-caching=1000
 http://198.16.106.58:8278/sanlixiju/playlist.m3u8?tid=m02000000000017970098&ct=18032&tsum=98b559735fdb238b44fc484b5ff5795f
