@@ -1,15 +1,6 @@
 #EXTINF:0,中天綜合
 #EXTVLCOPT:network-caching=1000
 http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
-#EXTINF:0,CNN
-#EXTVLCOPT:network-caching=1000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=e630a8a3-c25a-4c3c-aedd-6fbdcc6fd060&deviceId=d6ae0d04-f1fc-4abd-ad59-5e7b3825032b&deviceVersion=79.0.3945.88&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
-#EXTINF:0,CBS NEWS 
-#EXTVLCOPT:network-caching=1000
-http://161.0.157.5/PLTV/88888888/224/3221227041/01.m3u8
-#EXTINF:0,NBC 
-#EXTVLCOPT:network-caching=1000
-http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
 #EXTINF:0,CCTV-1
 #EXTVLCOPT:network-caching=1000
 http://111.40.205.87/PLTV/88888888/224/3221225710/index.m3u8
@@ -31,3 +22,12 @@ http://111.40.205.87/PLTV/88888888/224/3221225701/index.m3u8
 #EXTINF:0,安徽衛視
 #EXTVLCOPT:network-caching=1000
 http://111.40.205.87/PLTV/88888888/224/3221225727/index.m3u8
+#EXTINF:0,CNN
+#EXTVLCOPT:network-caching=1000
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=e630a8a3-c25a-4c3c-aedd-6fbdcc6fd060&deviceId=d6ae0d04-f1fc-4abd-ad59-5e7b3825032b&deviceVersion=79.0.3945.88&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+#EXTINF:0,CBS NEWS 
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.5/PLTV/88888888/224/3221227041/01.m3u8
+#EXTINF:0,NBC 
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
