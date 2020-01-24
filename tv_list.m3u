@@ -1,33 +1,3 @@
-#EXTINF:0,中天綜合
-#EXTVLCOPT:network-caching=1000
-http://198.16.106.58:8278/ctizhonghe/playlist.m3u8?tid=m02000000000012497296&ct=18032&tsum=aefc5e143197130c81bd5857a5f89307
-#EXTINF:0,三立戲劇
-#EXTVLCOPT:network-caching=1000
-http://198.16.106.58:8278/sanlixiju/playlist.m3u8?tid=m02000000000017970098&ct=18032&tsum=98b559735fdb238b44fc484b5ff5795f
-#EXTINF:0,東森洋片
-#EXTVLCOPT:network-caching=1000
-http://198.16.106.58:8278/ettvwestern/playlist.m3u8?tid=m02000000000013926527&ct=18032&tsum=7fa0f9b36f3c2f6f2913a720ad795285
-#EXTINF:0,Elta 綜合
-#EXTVLCOPT:network-caching=1000
-http://198.16.106.58:8278/eltazhonghe_twn/playlist.m3u8?tid=m02000000000014004815&ct=18032&tsum=a4d65e8000a7d0bbc343700b1efccb62
-#EXTINF:0,Elta 戲劇
-#EXTVLCOPT:network-caching=1000
-http://198.16.106.58:8278/eltadrama_twn/playlist.m3u8?tid=m02000000000017968370&ct=18032&tsum=0918e7edb4e700da112c60d22e0aa4d5
-#EXTINF:0,Gtv 第1台
-#EXTVLCOPT:network-caching=1000
-http://198.16.106.58:8278/badafirst/playlist.m3u8?tid=m02000000000010410120&ct=18032&tsum=055aef0bb13ac1e927f118680b4ec78d
-#EXTINF:0,Gtv 八大戲劇台
-#EXTVLCOPT:network-caching=1000
-http://198.16.106.58:8278/badadrama/playlist.m3u8?tid=m02000000000010527727&ct=18032&tsum=c58a9aa7bad904b79fe7cccb04d7e158
-#EXTINF:0,TVB jade
-#EXTVLCOPT:network-caching=1000
-http://198.16.106.58:8278/jade_twn/playlist.m3u8?tid=m02000000000012940501&ct=17993&tsum=9e0296de800da2a23acf6b63b8f89833
-#EXTINF:0,TVB J2
-#EXTVLCOPT:network-caching=1000
-http://198.16.106.58:8278/j2_twn/playlist.m3u8?tid=m02000000000014784480&ct=17993&tsum=d2195b95e329bcd0d63bcabb67d3ca2f
-#EXTINF:0,TVB J5
-#EXTVLCOPT:network-caching=1000
-http://198.16.106.58:8278/j5_twn/playlist.m3u8?tid=m02000000000010509679&ct=17993&tsum=2d634e7c4520de49da5465f534ec7739
 #EXTINF:0,CCTV-1
 #EXTVLCOPT:network-caching=1000
 http://111.40.205.87/PLTV/88888888/224/3221225710/index.m3u8
