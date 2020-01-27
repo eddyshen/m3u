@@ -42,4 +42,4 @@ http://111.40.205.87/PLTV/88888888/224/3221225701/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://111.40.205.87/PLTV/88888888/224/3221225727/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l798OWRZvo6ANvPCews-VQXjBh9vdTluv2HKug=s48-c-k-c0xffffffff-no-rj-mo",笑傲江湖
-plugin://plugin.video.youtube/play/?video_id=6Yl46gmU9sw&list=PLW4Cxru6fXD1D9jaHhy3A33qHv1x4r0D7
+plugin://plugin.video.youtube/play/?video_id=PLW4Cxru6fXD1D9jaHhy3A33qHv1x4r0D7
