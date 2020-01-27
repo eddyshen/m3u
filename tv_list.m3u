@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_82sV2LQP6g/maxresdefault.jpg",Relaxing Sleep Music
-plugin://plugin.video.youtube/play/?video_id=_82sV2LQP6g
+plugin://plugin.video.youtube/play/?v=RaIJ767Bj_M
 #EXTINF:0,東森電影
 #EXTVLCOPT:network-caching=1000
 http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
