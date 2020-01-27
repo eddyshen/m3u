@@ -1,5 +1,4 @@
-#EXTINF:0,東森新聞
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l7-dII3l2ceHZ-aoQV9bO-tr2KWXuOU2PYGBIw=s288-c-k-c0xffffffff-no-rj-mo",東森新聞
 plugin://plugin.video.youtube/play/?video_id=RaIJ767Bj_M
 #EXTINF:0,東森電影
 #EXTVLCOPT:network-caching=1000
