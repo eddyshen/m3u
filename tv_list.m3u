@@ -1,5 +1,15 @@
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l7-dII3l2ceHZ-aoQV9bO-tr2KWXuOU2PYGBIw=s288-c-k-c0xffffffff-no-rj-mo",東森新聞
 plugin://plugin.video.youtube/play/?video_id=RaIJ767Bj_M
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l78vUfHOGp9Fqa9y93gACej2M2cbqaJgHAjhoQ=s48-c-k-c0xffffffff-no-rj-mo",TVBS NEWS
+plugin://plugin.video.youtube/play/?video_id=Hu1FkdAOws0
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l78XRFzRo1yUAKx8xW7xOxXtmfyHzA7ZFzuqCQ=s288-c-k-c0xffffffff-no-rj-mo",中天新聞
+plugin://plugin.video.youtube/play/?video_id=wUPPkSANpyo
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l79XuwuRsUXTwoWQo3EbHKB7TLyn0OkpdeSo2A=s48-c-k-c0xffffffff-no-rj-mo",中視新聞台
+plugin://plugin.video.youtube/play/?video_id=94wGQ2EFR98
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l7-zoPI6coWwchw7hjmp4fyd2zEobRL175X2Nw=s48-c-k-c0xffffffff-no-rj-mo",三立LIVE新聞
+plugin://plugin.video.youtube/play/?video_id=4ZVUmEUFwaY
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l78WzMrUlaDaUGvxMwjUuaq8ZZI8UZVx1V0TPg=s48-c-k-c0xffffffff-no-rj-mo",民視直播 FTVN Live 53
+plugin://plugin.video.youtube/play/?video_id=XxJKnDLYZz4
 #EXTINF:0,東森電影
 #EXTVLCOPT:network-caching=1000
 http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
@@ -30,9 +40,6 @@ http://104.250.154.42:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
 #EXTINF:0,好萊塢電影
 #EXTVLCOPT:network-caching=1000
 http://104.250.154.42:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
-#EXTINF:0,TVBS 新聞
-#EXTVLCOPT:network-caching=1000
-http://60.199.188.65/HLS/WG_TVBS-N/01.m3u8
 #EXTINF:0,壹電視
 #EXTVLCOPT:network-caching=1000
 http://ax.micaesoft.com/YMitv/YMITV_CN_eratv.m3u8
@@ -42,15 +49,9 @@ http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=233&FvSeid=1&Fsv_ctype=LIVES&Fs
 #EXTINF:0,中視
 #EXTVLCOPT:network-caching=1000
 http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
-#EXTINF:0,東森新聞
-#EXTVLCOPT:network-caching=1000
-http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
 #EXTINF:0,中天綜合
 #EXTVLCOPT:network-caching=1000
 http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
-#EXTINF:0,年代新聞
-#EXTVLCOPT:network-caching=1000
-http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
 #EXTINF:0,八大綜合
 #EXTVLCOPT:network-caching=1000
 http://104.250.154.42:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
