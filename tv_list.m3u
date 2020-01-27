@@ -1,4 +1,5 @@
 #EXTINF:0,東森新聞
+#EXTVLCOPT:network-caching=1000
 plugin://plugin.video.youtube/play/?video_id=RaIJ767Bj_M
 #EXTINF:0,東森電影
 #EXTVLCOPT:network-caching=1000
