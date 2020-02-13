@@ -18,11 +18,17 @@ plugin://plugin.video.youtube/play/?video_id=Hu1FkdAOws0
 plugin://plugin.video.youtube/play/?video_id=wUPPkSANpyo
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l7-zoPI6coWwchw7hjmp4fyd2zEobRL175X2Nw=s48-c-k-c0xffffffff-no-rj-mo",三立新聞
 plugin://plugin.video.youtube/play/?video_id=4ZVUmEUFwaY
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l78pWvKFkgKbopa8DX3hkYMSgHOBdVK8t6YPrw=s48-c-k-c0xffffffff-no-rj-mo",CCTV-4
-plugin://plugin.video.youtube/play/?video_id=vCDDYb_M2B4
 #EXTINF:0,CCTV-1
 #EXTVLCOPT:network-caching=1000
 http://111.40.205.87/PLTV/88888888/224/3221225710/index.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l78pWvKFkgKbopa8DX3hkYMSgHOBdVK8t6YPrw=s48-c-k-c0xffffffff-no-rj-mo",CCTV-4
+plugin://plugin.video.youtube/play/?video_id=vCDDYb_M2B4
+#EXTINF:0,CCTV-4
+#EXTVLCOPT:network-caching=1000
+http://111.40.205.87/PLTV/88888888/224/3221225725/index.m3u8 
+#EXTINF:0,CCTV-9
+#EXTVLCOPT:network-caching=1000
+http://111.40.205.87/PLTV/88888888/224/3221225734/index.m3u8
 #EXTINF:0,東方衛視 720p
 #EXTVLCOPT:network-caching=1000
 http://111.40.205.87/PLTV/88888888/224/3221225700/index.m3u8
@@ -56,7 +62,3 @@ http://111.40.205.87/PLTV/88888888/224/3221225664/index.m3u8
 #EXTINF:0,Newtv精品电影
 #EXTVLCOPT:network-caching=1000
 http://111.40.205.87/PLTV/88888888/224/3221225667/index.m3u8
-
-
-
-
