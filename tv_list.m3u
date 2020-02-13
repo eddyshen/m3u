@@ -23,9 +23,12 @@ plugin://plugin.video.youtube/play/?video_id=vCDDYb_M2B4
 #EXTINF:0,CCTV-1
 #EXTVLCOPT:network-caching=1000
 http://111.40.205.87/PLTV/88888888/224/3221225710/index.m3u8
-#EXTINF:0,東方衛視
+#EXTINF:0,東方衛視 720p
 #EXTVLCOPT:network-caching=1000
 http://111.40.205.87/PLTV/88888888/224/3221225700/index.m3u8
+#EXTINF:0,東方衛視 1080p
+#EXTVLCOPT:network-caching=1000
+http://111.40.205.87/PLTV/88888888/224/3221225735/index.m3u8
 #EXTINF:0,江蘇衛視
 #EXTVLCOPT:network-caching=1000
 http://111.40.205.87/PLTV/88888888/224/3221225613/index.m3u8
