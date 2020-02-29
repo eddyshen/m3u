@@ -47,16 +47,3 @@ http://111.40.205.87/PLTV/88888888/224/3221225612/index.m3u8
 #EXTINF:0,北京衛視
 #EXTVLCOPT:network-caching=1000
 http://111.40.205.87/PLTV/88888888/224/3221225701/index.m3u8
-#EXTINF:0,高清翡翠台
-#EXTVLCOPT:network-caching=1000
-http://pili-live-hdl.qhmywl.com/dsdtv/b3a93cbbd1908e81783879747bb3090a.m3u8
-#EXTINF:0,澳门莲花卫视
-#EXTVLCOPT:network-caching=1000
-http://suo.im/5DmcZk
-#EXTINF:0,香港卫视
-#EXTVLCOPT:network-caching=1000
-http://zhibo.hkstv.tv/livestrea/mutfysrq/playlist.m3u8?wsSession=6d175258de742132e85e9405-157881825529454&wsIPSercert=82db4cc65e24e5963f2c368b180dc0b3&wsMonitor=0&time=1578818276184
-#EXTINF:0, 澳亚卫视
-#EXTVLCOPT:network-caching=1000
-http://stream.mastvnet.com/MASTV/sd/live.m3u8?time=1578819694351
-
