@@ -22,7 +22,9 @@ plugin://plugin.video.youtube/play/?video_id=4ZVUmEUFwaY
 #EXTVLCOPT:network-caching=1000
 http://111.40.205.87/PLTV/88888888/224/3221225710/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l78pWvKFkgKbopa8DX3hkYMSgHOBdVK8t6YPrw=s48-c-k-c0xffffffff-no-rj-mo",CCTV 4
-plugin://plugin.video.youtube/play/?video_id=vCDDYb_M2B4                     
+plugin://plugin.video.youtube/play/?video_id=vCDDYb_M2B4
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJwZHpzuuVwGSgVgilxUYP1YZO0_vX-yXg1wpQ=s48-c-k-c0xffffffff-no-rj-mo",笑傲江湖
+plugin://plugin.video.youtube/play/?playlist_id=PLW4Cxru6fXD1D9jaHhy3A33qHv1x4r0D7
 #EXTINF:0,CCTV 5    (體育)
 #EXTVLCOPT:network-caching=1000
 http://111.40.205.87/PLTV/88888888/224/3221225711/index.m3u8
