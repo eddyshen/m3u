@@ -44,8 +44,8 @@ http://111.40.205.87/PLTV/88888888/224/3221225603/index.m3u8
 #EXTINF:0,CCTV 9
 #EXTVLCOPT:network-caching=1000
 http://111.40.205.87/PLTV/88888888/224/3221225734/index.m3u8
-#EXTINF:0,東方衛視
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Dragon_Television_%28China%29_logo.svg/220px-Dragon_Television_%28China%29_logo.svg.png",東方衛視
+#EXTVLCOPT:network-caching=1000"
 http://111.40.205.87/PLTV/88888888/224/3221225700/index.m3u8
 #EXTINF:0,江蘇衛視
 #EXTVLCOPT:network-caching=1000
