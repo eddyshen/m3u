@@ -39,9 +39,6 @@ http://104.250.154.42:8080/ZZ_shidai/ZZ_shidai.m3u8
 #EXTINF:0,好萊塢
 #EXTVLCOPT:network-caching=1000
 http://104.250.154.42:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
-#EXTINF:0,FOX電影
-#EXTVLCOPT:network-caching=1000
-http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:0,CCTV 1
 #EXTVLCOPT:network-caching=1000
 http://111.40.205.87/PLTV/88888888/224/3221225710/index.m3u8
