@@ -47,3 +47,9 @@ http://otttv.bj.chinamobile.com/PLTV/8888888/224/3221226247/1.m3u8
 #EXTINF:0,北京衛視
 #EXTVLCOPT:network-caching=1000
 http://112.17.40.145/PLTV/88888888/224/3221226164/index.m3u8
+#EXTINF:0,山東衛視
+#EXTVLCOPT:network-caching=1000
+http://otttv.bj.chinamobile.com/PLTV/8888888/224/3221226244/1.m3u8
+#EXTINF:0,深圳衛視
+#EXTVLCOPT:network-caching=1000
+http://otttv.bj.chinamobile.com/PLTV/8888888/224/3221226245/1.m3u8
