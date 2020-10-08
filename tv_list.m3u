@@ -31,7 +31,7 @@ http://liveplay-kk.rtxapp.com/live/program/live/cctv5hd/4000000/mnf.m3u8
 http://liveplay-kk.rtxapp.com/live/program/live/cctv5phd/4000000/mnf.m3u8
 #EXTINF:0,CCTV 9
 #EXTVLCOPT:network-caching=1000
-http://otttv.bj.chinamobile.com/PLTV/8888888/224/3221226236/1.m3u8
+http://39.134.65.162/PLTV/88888888/224/3221225676/index.m3u8
 #EXTINF:0,東方衛視
 #EXTVLCOPT:network-caching=1000"
 http://liveplay-kk.rtxapp.com/live/program/live/hddfws/4000000/mnf.m3u8
