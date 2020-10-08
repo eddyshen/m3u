@@ -20,36 +20,36 @@ plugin://plugin.video.youtube/play/?video_id=wUPPkSANpyo
 plugin://plugin.video.youtube/play/?video_id=4ZVUmEUFwaY
 #EXTINF:0,CCTV 1
 #EXTVLCOPT:network-caching=1000
-http://otttv.bj.chinamobile.com/PLTV/8888888/224/3221226226/1.m3u8
+http://liveplay-kk.rtxapp.com/live/program/live/cctv1hd/4000000/mnf.m3u8
 #EXTINF:0,CCTV 4
 plugin://plugin.video.youtube/play/?video_id=vCDDYb_M2B4
 #EXTINF:0,CCTV 5    (體育)
 #EXTVLCOPT:network-caching=1000
-http://otttv.bj.chinamobile.com/PLTV/8888888/224/3221226256/1.m3u8
+http://liveplay-kk.rtxapp.com/live/program/live/cctv5hd/4000000/mnf.m3u8
 #EXTINF:0,CCTV 5+ (體育賽事)
 #EXTVLCOPT:network-caching=1000
-http://otttv.bj.chinamobile.com/PLTV/8888888/224/3221226225/1.m3u8
+http://liveplay-kk.rtxapp.com/live/program/live/cctv5phd/4000000/mnf.m3u8
 #EXTINF:0,CCTV 9
 #EXTVLCOPT:network-caching=1000
 http://otttv.bj.chinamobile.com/PLTV/8888888/224/3221226236/1.m3u8
 #EXTINF:0,東方衛視
 #EXTVLCOPT:network-caching=1000"
-http://otttv.bj.chinamobile.com/PLTV/8888888/224/3221226161/1.m3u8
+http://liveplay-kk.rtxapp.com/live/program/live/hddfws/4000000/mnf.m3u8
 #EXTINF:0,江蘇衛視
 #EXTVLCOPT:network-caching=1000
-http://otttv.bj.chinamobile.com/PLTV/8888888/224/3221226242/1.m3u8
+http://liveplay-kk.rtxapp.com/live/program/live/jswshd/4000000/mnf.m3u8
 #EXTINF:0,湖南衛視
 #EXTVLCOPT:network-caching=1000
-http://otttv.bj.chinamobile.com/PLTV/8888888/224/3221226162/1.m3u8
+http://liveplay-kk.rtxapp.com/live/program/live/hnwshd/4000000/mnf.m3u8
 #EXTINF:0,浙江衛視
 #EXTVLCOPT:network-caching=1000
-http://otttv.bj.chinamobile.com/PLTV/8888888/224/3221225903/1.m3u8
+http://liveplay-kk.rtxapp.com/live/program/live/zjwshd/4000000/mnf.m3u8
 #EXTINF:0,北京衛視
 #EXTVLCOPT:network-caching=1000
-http://112.17.40.145/PLTV/88888888/224/3221226164/index.m3u8
+http://liveplay-kk.rtxapp.com/live/program/live/bjwshd/4000000/mnf.m3u8
 #EXTINF:0,山東衛視
 #EXTVLCOPT:network-caching=1000
-http://otttv.bj.chinamobile.com/PLTV/8888888/224/3221226244/1.m3u8
+http://liveplay-kk.rtxapp.com/live/program/live/sdwshd/4000000/mnf.m3u8
 #EXTINF:0,深圳衛視
 #EXTVLCOPT:network-caching=1000
-http://otttv.bj.chinamobile.com/PLTV/8888888/224/3221226245/1.m3u8
+http://liveplay-kk.rtxapp.com/live/program/live/szwshd/4000000/mnf.m3u8
