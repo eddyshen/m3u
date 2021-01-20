@@ -25,36 +25,36 @@ https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:0,CCTV 1
 #EXTVLCOPT:network-caching=1000
-http://liveplay-kk.rtxapp.com/live/program/live/cctv1hd/4000000/mnf.m3u8
+http://140.207.241.2:8080/live/program/live/cctv1hd/4000000/mnf.m3u8
 #EXTINF:0,CCTV 4
 plugin://plugin.video.youtube/play/?video_id=vCDDYb_M2B4
 #EXTINF:0,CCTV 5    (體育)
 #EXTVLCOPT:network-caching=1000
-http://liveplay-kk.rtxapp.com/live/program/live/cctv5hd/4000000/mnf.m3u8
+http://140.207.241.2:8080/live/program/live/cctv5hd/4000000/mnf.m3u8
 #EXTINF:0,CCTV 5+ (體育賽事)
 #EXTVLCOPT:network-caching=1000
 http://liveplay-kk.rtxapp.com/live/program/live/cctv5phd/4000000/mnf.m3u8
 #EXTINF:0,CCTV 9
 #EXTVLCOPT:network-caching=1000
-http://39.134.65.162/PLTV/88888888/224/3221225676/index.m3u8
+http://140.207.241.2:8080/live/program/live/cctv9/1200000/mnf.m3u8
 #EXTINF:0,東方衛視
 #EXTVLCOPT:network-caching=1000"
-http://liveplay-kk.rtxapp.com/live/program/live/hddfws/4000000/mnf.m3u8
+http://140.207.241.2:8080/live/program/live/hddfws/4000000/mnf.m3u8
 #EXTINF:0,江蘇衛視
 #EXTVLCOPT:network-caching=1000
-http://liveplay-kk.rtxapp.com/live/program/live/jswshd/4000000/mnf.m3u8
+http://140.207.241.2:8080/live/program/live/jswshd/4000000/mnf.m3u8
 #EXTINF:0,湖南衛視
 #EXTVLCOPT:network-caching=1000
-http://liveplay-kk.rtxapp.com/live/program/live/hnwshd/4000000/mnf.m3u8
+http://140.207.241.2:8080/live/program/live/hnwshd/4000000/mnf.m3u8
 #EXTINF:0,浙江衛視
 #EXTVLCOPT:network-caching=1000
-http://liveplay-kk.rtxapp.com/live/program/live/zjwshd/4000000/mnf.m3u8
+http://140.207.241.2:8080/live/program/live/zjwshd/4000000/mnf.m3u8
 #EXTINF:0,北京衛視
 #EXTVLCOPT:network-caching=1000
-http://liveplay-kk.rtxapp.com/live/program/live/bjwshd/4000000/mnf.m3u8
+http://140.207.241.2:8080/live/program/live/bjwshd/4000000/mnf.m3u8
 #EXTINF:0,山東衛視
 #EXTVLCOPT:network-caching=1000
-http://liveplay-kk.rtxapp.com/live/program/live/sdwshd/4000000/mnf.m3u8
+http://140.207.241.2:8080/live/program/live/sdwshd/4000000/mnf.m3u8
 #EXTINF:0,深圳衛視
 #EXTVLCOPT:network-caching=1000
-http://liveplay-kk.rtxapp.com/live/program/live/szwshd/4000000/mnf.m3u8
+http://140.207.241.2:8080/live/program/live/szwshd/4000000/mnf.m3u8
