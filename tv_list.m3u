@@ -9,7 +9,7 @@ plugin://plugin.video.youtube/play/?video_id=-pvROC_MdYM
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l79gtVIzMGmZjhg-OvYbOlR3DGrL-6gj-x2Amw=s48-c-k-c0xffffffff-no-rj-mo",公視網路直播
 plugin://plugin.video.youtube/play/?video_id=ED4QXd5xAco
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l7-dII3l2ceHZ-aoQV9bO-tr2KWXuOU2PYGBIw=s288-c-k-c0xffffffff-no-rj-mo",東森新聞
-plugin://plugin.video.youtube/play/?video_id=v6dM1lwAC9M
+plugin://plugin.video.youtube/play/?video_id=4KFEkB2AqRA
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l7_xILBe2dWNlIYC2PFe-cdawzGnV_T1iDgzaw=s48-c-k-c0xffffffff-no-rj-mo",東森財經新聞
 plugin://plugin.video.youtube/play/?video_id=68lLQ7hkdzU
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l78vUfHOGp9Fqa9y93gACej2M2cbqaJgHAjhoQ=s48-c-k-c0xffffffff-no-rj-mo",TVBS NEWS
@@ -50,7 +50,7 @@ http://140.207.241.2:8080/live/program/live/jswshd/4000000/mnf.m3u8
 http://140.207.241.2:8080/live/program/live/hnwshd/4000000/mnf.m3u8
 #EXTINF:0,浙江衛視
 #EXTVLCOPT:network-caching=1000
-http://140.207.241.2:8080/live/program/live/zjwshd/4000000/mnf.m3u8
+http://223.110.243.173/PLTV/3/224/3221227215/index.m3u8
 #EXTINF:0,北京衛視
 #EXTVLCOPT:network-caching=1000
 http://140.207.241.2:8080/live/program/live/bjwshd/4000000/mnf.m3u8
