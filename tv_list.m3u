@@ -3,11 +3,11 @@ plugin://plugin.video.youtube/play/?video_id=XxJKnDLYZz4
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l79pBkPLsfqIuTUYDQRq8bnm6jJXqdzkMc5MCw=s48-c-k-c0xffffffff-no-rj-mo",台視新聞
 plugin://plugin.video.youtube/play/?video_id=xL0ch83RAK8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l79XuwuRsUXTwoWQo3EbHKB7TLyn0OkpdeSo2A=s48-c-k-c0xffffffff-no-rj-mo",中視新聞
-plugin://plugin.video.youtube/play/?video_id=lSZZ3YRsW1w
+plugin://plugin.video.youtube/play/?video_id=NHTD_g1LYOM
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l7-6N-9EepEdkjAdXdwptXFvObksclo0tMfKgA=s48-c-k-c0xffffffff-no-rj-mo",華視新聞
-plugin://plugin.video.youtube/play/?video_id=-pvROC_MdYM
+plugin://plugin.video.youtube/play/?video_id=yUTy1U1wTwE
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l79gtVIzMGmZjhg-OvYbOlR3DGrL-6gj-x2Amw=s48-c-k-c0xffffffff-no-rj-mo",公視網路直播
-plugin://plugin.video.youtube/play/?video_id=ED4QXd5xAco
+plugin://plugin.video.youtube/play/?video_id=JAzRXylm3M0
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l7-dII3l2ceHZ-aoQV9bO-tr2KWXuOU2PYGBIw=s288-c-k-c0xffffffff-no-rj-mo",東森新聞
 plugin://plugin.video.youtube/play/?video_id=R2iMq5LKXco
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l7_xILBe2dWNlIYC2PFe-cdawzGnV_T1iDgzaw=s48-c-k-c0xffffffff-no-rj-mo",東森財經新聞
@@ -17,11 +17,9 @@ plugin://plugin.video.youtube/play/?video_id=KDRwIRKP5tY
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniUgLLn4FxkJwM9Fj_Jh7dxUwfp-90b_04GJndx8w=s48-c-k-c0x00ffffff-no-rj",TVBS 56
 plugin://plugin.video.youtube/play/?video_id=EmuMuVyAjh4
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l78XRFzRo1yUAKx8xW7xOxXtmfyHzA7ZFzuqCQ=s288-c-k-c0xffffffff-no-rj-mo",中天新聞
-plugin://plugin.video.youtube/play/?video_id=h1RERfGy55U
+plugin://plugin.video.youtube/play/?video_id=lu_BJKxqGnk
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l7-zoPI6coWwchw7hjmp4fyd2zEobRL175X2Nw=s48-c-k-c0xffffffff-no-rj-mo",三立新聞
-plugin://plugin.video.youtube/play/?video_id=4ZVUmEUFwaY
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjHZzH5TfnkSptLnC9LaAuX4Onpzm0WaYb3ktmugw=s176-c-k-c0x00ffffff-no-rj-mo",非凡新聞
-http://125.227.210.37:61738/VideoInput/play.ts
+plugin://plugin.video.youtube/play/?video_id=pJ0VgJloR9E
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJwXy7uxjIqlkJzYssBQypOnekZF-vvxHHtSbanF=s100-c-k-c0xffffffff-no-rj-mo",News24 Japan
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:0,NHK华语世界
