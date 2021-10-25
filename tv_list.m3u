@@ -15,16 +15,11 @@ plugin://plugin.video.youtube/play/?video_id=ABn_ccXn_jc
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l78vUfHOGp9Fqa9y93gACej2M2cbqaJgHAjhoQ=s48-c-k-c0xffffffff-no-rj-mo",TVBS NEWS
 plugin://plugin.video.youtube/play/?video_id=V0WxUakDV7M
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniUgLLn4FxkJwM9Fj_Jh7dxUwfp-90b_04GJndx8w=s48-c-k-c0x00ffffff-no-rj",TVBS 56
-plugin://plugin.video.youtube/play/?video_id=EmuMuVyAjh4
+plugin://plugin.video.youtube/play/?video_id=hP6_jfCFxyQ
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l78XRFzRo1yUAKx8xW7xOxXtmfyHzA7ZFzuqCQ=s288-c-k-c0xffffffff-no-rj-mo",中天新聞
 plugin://plugin.video.youtube/play/?video_id=lu_BJKxqGnk
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l7-zoPI6coWwchw7hjmp4fyd2zEobRL175X2Nw=s48-c-k-c0xffffffff-no-rj-mo",三立新聞
-plugin://plugin.video.youtube/play/?video_id=pJ0VgJloR9E
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJwXy7uxjIqlkJzYssBQypOnekZF-vvxHHtSbanF=s100-c-k-c0xffffffff-no-rj-mo",News24 Japan
-https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-#EXTINF:0,NHK华语世界
-#EXTVLCOPT:network-caching=1000
-https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+plugin://plugin.video.youtube/play/?video_id=FoBfXvlOR6I
 #EXTINF:0,CCTV 1
 #EXTVLCOPT:network-caching=1000
 http://140.207.241.2:8080/live/program/live/cctv1hd/4000000/mnf.m3u8
@@ -39,24 +34,3 @@ http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
 #EXTINF:0,CCTV 9
 #EXTVLCOPT:network-caching=1000
 http://140.207.241.2:8080/live/program/live/cctv9/1200000/mnf.m3u8
-#EXTINF:0,東方衛視
-#EXTVLCOPT:network-caching=1000"
-http://140.207.241.2:8080/live/program/live/hddfws/4000000/mnf.m3u8
-#EXTINF:0,江蘇衛視
-#EXTVLCOPT:network-caching=1000
-http://140.207.241.2:8080/live/program/live/jswshd/4000000/mnf.m3u8
-#EXTINF:0,湖南衛視
-#EXTVLCOPT:network-caching=1000
-http://140.207.241.2:8080/live/program/live/hnwshd/4000000/mnf.m3u8
-#EXTINF:0,浙江衛視
-#EXTVLCOPT:network-caching=1000
-http://223.110.243.173/PLTV/3/224/3221227215/index.m3u8
-#EXTINF:0,北京衛視
-#EXTVLCOPT:network-caching=1000
-http://140.207.241.2:8080/live/program/live/bjwshd/4000000/mnf.m3u8
-#EXTINF:0,山東衛視
-#EXTVLCOPT:network-caching=1000
-http://140.207.241.2:8080/live/program/live/sdwshd/4000000/mnf.m3u8
-#EXTINF:0,深圳衛視
-#EXTVLCOPT:network-caching=1000
-http://140.207.241.2:8080/live/program/live/szwshd/4000000/mnf.m3u8
