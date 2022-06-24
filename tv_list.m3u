@@ -22,3 +22,7 @@ plugin://plugin.video.youtube/play/?video_id=_QbRXRnHMVY
 plugin://plugin.video.youtube/play/?video_id=pZC2WtyUtr4
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniUgLLn4FxkJwM9Fj_Jh7dxUwfp-90b_04GJndx8w=s48-c-k-c0x00ffffff-no-rj",TVBS 56
 plugin://plugin.video.youtube/play/?video_id=hP6_jfCFxyQ
+#EXTINF:-1,ELTA體育2台
+rtmp://59.124.75.138/sat/md041
+#EXTINF:-1,博斯運動2
+rtmp://59.124.75.138/sat/md041
