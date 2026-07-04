@@ -1,6 +1,6 @@
 緯來體育台 https://www.jrs03.com/wlty.html
-台視 https://t.freetv.fun/live/tai-shi.ts
-中視 https://t.freetv.fun/live/zhong-shi-2.ts
-華視 https://t.freetv.fun/live/hua-shi-2.ts
-公視 https://t.freetv.fun/live/gong-shi-1.ts
-民視 https://t.freetv.fun/live/min-shi-1-1.ts
+台視 https://t.freetv.fun/live/tai-shi.ts 720p
+中視 https://t.freetv.fun/live/zhong-shi-2.ts 1080p
+華視 https://t.freetv.fun/live/hua-shi-2.ts 1080p
+公視 https://t.freetv.fun/live/gong-shi-1.ts 1080p
+民視 https://t.freetv.fun/live/min-shi-1-1.ts 1080p
