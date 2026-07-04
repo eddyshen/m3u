@@ -1,3 +1,10 @@
+台灣,#genre#
+民視,https://t.freetv.fun/live/min-shi-1-1.ts
+台視,https://t.freetv.fun/live/tai-shi.ts
+中視,https://t.freetv.fun/live/zhong-shi-2.ts
+華視,https://t.freetv.fun/live/hua-shi-2.ts
+華視,https://t.freetv.fun/live/hua-shi-1-1.ts
+公視,https://t.freetv.fun/live/gong-shi-1.ts
 #EXTINF:-1 tvg-name="華視" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2020/07/26/large/20200726143140379428_88.jpg" group-title="綜合",[HD]华视
 https://epg.pw/stream/eccf32739b25830eae943450b2e0cd8790e575a94f2edee661670cbceaa71f49.m3u8
 #EXTINF:-1 tvg-name="台視HD" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724092817835507_62.png" group-title="綜合",[HD]台视
@@ -20,6 +27,8 @@ https://epg.pw/stream/85f834ef8f7811fc57a55b8d917e79296468aaf03b32dfba68f1b3bee9
 https://epg.pw/stream/8e848d390fa63dd2c6fdd11dda8ae5d6f08e4ef75ab032d2edefd279e56d2420.m3u8
 #EXTINF:-1 tvg-name="ELTA體育3" tvg-id="10958" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719113544608832_44.png" group-title="運動",[HD]elta體育3台
 rtmp://9sv2.mine.nu/sat/md051
+
+大陸,#genre#
 #EXTINF:-1 tvg-name="浙江衛視" tvg-id="13869" tvg-country="中國大陸省台" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721150922420065_22.png" group-title="綜合",[HD]浙江卫视@@17
 https://epg.pw/stream/002db2cb7e640194f770cd3bb3496dec9e1d6f9c6c0a98f6b3a4cb8ef24042cb.m3u
 #EXTINF:-1 tvg-name="湖南衛視" tvg-id="13868" tvg-country="中國大陸省台" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720161245126985_70.png" group-title="綜合",[BD]湖南卫视
